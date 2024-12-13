@@ -1,5 +1,5 @@
 
-API = '8095309527:AAHrBi9CgvQW2UQ4iap9_eyvBQ_MVQjjl24'
+API = ''
 
 price_air_force = 14990
 price_jordan1_low = 12990
